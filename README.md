@@ -13,6 +13,7 @@ A homebridge plugin to control [Epson EH-TW7200 LCD projectors](https://www.epso
 
 Epson projectors that have a RS-232 interface are likely to implement the [ESC/VP21 protocol](https://www.google.de/search?q=ESC/VP21+protocol) that is used by this plugin. While the feature set exposed on the interface differs in the projectors, basic functionality should work in almost all of them. Specifically this plugin is compatible with the following models:
 
+* EH-TW3200
 * EH-TW7200
 * EH-TW8200  (not verified)
 * EH-TW8200W (not verified)
